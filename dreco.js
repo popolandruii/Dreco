@@ -6,6 +6,6 @@ function setup(){
 }
 
 function draw(){
-  ellipse(200,200,20,20);
+  var a=createP('helo');
   fill(200,20,20);
 }
