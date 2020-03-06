@@ -8,4 +8,5 @@ function setup(){
 function draw(){
   var a=createP('helo');
   fill(200,20,20);
+  noStroke();
 }
